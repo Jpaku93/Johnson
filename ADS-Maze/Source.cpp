@@ -6,5 +6,6 @@ int main()
 {
 	Map map;
 	map.draw();
+	
 	return(0);
 }

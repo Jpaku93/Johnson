@@ -7,7 +7,7 @@ class Map
 private:
 	int m_length; //Horizontal
 	int m_width; // Vertical
-	vector<string> a_map;
+	vector<int> a_map;
 	int m_index;
 public:
 
@@ -15,5 +15,6 @@ public:
 	Map();
 	~Map() {};
 	void draw();
+	
 };
 
