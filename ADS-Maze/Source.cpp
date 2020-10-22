@@ -3,5 +3,5 @@ using namespace std;
 
 int main()
 {
-	cout << "nothing" << endl;
+	cout << "politics" << endl;
 }
